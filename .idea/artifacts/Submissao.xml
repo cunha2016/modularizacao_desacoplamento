@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Submissao">
+    <output-path>$PROJECT_DIR$/out/artifacts/Submissao</output-path>
+    <root id="archive" name="Submissao.jar">
+      <element id="module-output" name="aulas" />
+    </root>
+  </artifact>
+</component>
